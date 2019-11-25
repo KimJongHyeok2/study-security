@@ -22,4 +22,5 @@ Spring 기반의 어플리케이션의 보안(인증과 권한)을 담당하는 
 전통적인 쿠키-세션 방식을 사용한다.
 
 ## 레퍼런스
-https://sjh836.tistory.com/165
+https://sjh836.tistory.com/165<br>
+https://wedul.site/170
